@@ -1,4 +1,4 @@
-{
+{ "homepage": "https://vialoraine.github.io/react-portfolio/",
   "name": "portfolio",
   "version": "1.0.1",
   "description": "A clean, beautiful and responsive portfolio",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://https://github.com/Vialoraine/React-Portfolio"
+    "url": "git+https://https://github.com/vialoraine/react-portfolio"
   },
   "keywords": [],
   "author": "Loreina Salalila",
